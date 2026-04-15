@@ -36,16 +36,16 @@ This project analyzes customer demographics, transactions, and new customer data
 - Gender
 - Job Industry
 - Identified key customer groups contributing to business performance
-# Transaction Analysis
+## Transaction Analysis
 - Analyzed monthly sales trends
 - Evaluated product performance by brand and category
 - Identified top customers based on total transaction value
 - Calculated average purchase behavior
-# New Customer Insights
+## New Customer Insights
 - Analyzed distribution of new customers across industries
 - Studied relationship between property valuation and wealth segment
 - Estimated potential revenue from new customers
-# Customer Lifetime Value (CLV)
+## Customer Lifetime Value (CLV)
 Formula used:
 CLV = Average Purchase Value × Purchase Frequency × Customer Lifespan
 Where:
@@ -53,23 +53,23 @@ Where:
 - Purchase Frequency = Total Transactions / Total Customers
 - Customer Lifespan = Tenure
 Used CLV to identify high-value customers
-# Key Insights
+## Key Insights
 - Mass Customers form the largest customer base
 - High Net Worth customers generate higher value
 - Financial Services, Manufacturing, and Health industries show strong performance
 - Customer behavior varies across segments
-# Recommendations
+## Recommendations
 - Focus marketing on high-value customers
 - Create targeted campaigns for each segment
 - Invest in high-performing industries
 - Improve strategies for low-performing segments
-# Tools and Techniques
+## Tools and Techniques
 - Microsoft Excel
 - Pivot Tables
 - Data Cleaning
 - Statistical Analysis
 - Customer Segmentation
-# Project Outcome
+## Project Outcome
 - Built a structured data analysis workflow
 - Generated actionable insights
 - Demonstrated business decision support using Excel
